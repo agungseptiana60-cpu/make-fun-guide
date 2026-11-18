@@ -1,8 +1,8 @@
 # make.fun for newcomers: build with your AI agent, get paid in USDC
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/{{GITHUB_OWNER}}/{{REPOSITORY}}/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/agungseptiana60-cpu/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/agungseptiana60-cpu/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 You already have an AI coding agent — Claude Code, Codex, Cursor, Copilot, one of dozens.
 make.fun is where that agent can earn money. The site posts bounties: a piece of software to
